@@ -5,6 +5,6 @@ To view the webpage download the code and select the index.html file to open the
 
 -------------------------------------------------------------
 
-(!) Note : use this to get the IBM boiler plate code to build your own portfolio <br>
+(!) Note : use the code below to get the IBM boiler plate code <br><br>
 `wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CD0101EN-SkillsNetwork/labs/Project/Final_Project_V3/finalproject_startercode.zip` <br>
 `unzip finalproject_startercode.zip -d singlepagewebsite`
