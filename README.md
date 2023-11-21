@@ -4,7 +4,7 @@ This portfolio has a high level informational web page describing Jacob Isaacs.<
 To view the webpage download the code and select the index.html file to open the web page in your web browser.<br><br>
 
 <br>
----
+-------------------------------------------------------------
 <br>
 
 (!) Note : use this to get the IBM boiler plate code to build your own portfolio <br>
