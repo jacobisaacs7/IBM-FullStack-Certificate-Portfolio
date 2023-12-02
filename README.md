@@ -20,4 +20,4 @@ Alternatively, checkout the project from the repo and select the index.html file
 
 TODOs: <br>
 I plan to clone this repository/ or fork it and make my own portfolio website <br>
-https://github.com/xriley/Developer-Theme
+https://github.com/xriley/Developer-Theme <br>
