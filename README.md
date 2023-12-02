@@ -5,7 +5,7 @@ This portfolio is all about Jacob Isaacs.<br><br>
 ---------------------------
 
 Click here to view the webpage <br>
-https://jacobisaacs7.github.io/JacobIsaacs-IBM-FullStack-Certificate-portfolio/ <br><br>
+https://jacobisaacs7.github.io/IBM-FullStack-Certificate-Portfolio/ <br><br>
 
 Alternatively, checkout the project from the repo and select the index.html file to open the web page in your web browser.<br>
 
@@ -21,4 +21,3 @@ Alternatively, checkout the project from the repo and select the index.html file
 TODOs: <br>
 I plan to clone this repository/ or fork it and make my own portfolio website <br>
 https://github.com/xriley/Developer-Theme <br>
-Going to finish the final project for my course
