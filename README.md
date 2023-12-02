@@ -14,3 +14,10 @@ Alternatively, checkout the project from the repo and select the index.html file
 (!) Note : you can use the code below to get the IBM portfolio boiler plate code <br><br>
 `wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CD0101EN-SkillsNetwork/labs/Project/Final_Project_V3/finalproject_startercode.zip` <br>
 `unzip finalproject_startercode.zip -d singlepagewebsite`
+
+
+--------------------------------------------------------
+
+TODOs: <br>
+I plan to clone this repository/ or fork it and make my own portfolio website <br>
+https://github.com/xriley/Developer-Theme
